@@ -24,7 +24,7 @@ def install_required_libraries():
         except Exception as e:
             print(f"An error occurred while checking or installing {library}: {e}")
 
-TELEGRAM_TOKEN = '7994752909:AAEWQ8PSpPf6whrYzXzGsckxr5R6WLHkG9g'
+TELEGRAM_TOKEN = 'It's Private :)'
 CHANNEL_ID = '@Pars_Ettehad'
 EXCEL_FILE = 'products.xlsx'
 MESSAGE_IDS_FILE = 'message_ids.json'
